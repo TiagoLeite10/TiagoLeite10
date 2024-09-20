@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=450&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Tiago+Leite!;I'm+a+Software+Engeneering+student.+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Be+welcome!+%F0%9F%98%83)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=450&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Tiago+Leite!;I'm+a+Software+Engineer.+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Be+welcome!+%F0%9F%98%83)](https://git.io/typing-svg)
 
   ### 📊 Statistics
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TiagoLeite10&count_private=true&show_icons=true&theme=transparent&hide_border=true">
